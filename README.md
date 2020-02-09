@@ -3,7 +3,7 @@
 ## How to use
 
 ```sh
-git clone https://github.com/Seren4/test_moneway.git
+git clone https://github.com/Seren4/test-moneway.git
 cd test_moneway
 ```
 
