@@ -1,0 +1,48 @@
+{
+  "name": "moneway-test",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "^4.9.1",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.41",
+    "axios": "^0.19.2",
+    "classnames": "2.2.6",
+    "faker": "^4.1.0",
+    "material-table": "^1.57.2",
+    "material-ui": "^0.20.2",
+    "node-sass": "^4.13.1",
+    "react": "^16.7.0-alpha.2",
+    "react-dom": "^16.7.0-alpha.2",
+    "react-redux": "6.0.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.3.1",
+    "redux": "4.0.0",
+    "redux-form": "^8.3.0",
+    "redux-form-material-ui": "^4.3.4",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "miragejs": "^0.1.33"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "userion": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
